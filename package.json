@@ -1,0 +1,16 @@
+{
+	"name": "fedxero",
+	"version": "1.0.0",
+	"description": "XeroTechnicalTest consists of a Node.js console application.",
+	"main": "src/index.js",
+	"scripts": {
+		"start": "node src/index.js",
+		"test": "jest"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"jest": "^24.9.0"
+	}
+}
